@@ -1,6 +1,6 @@
 from yt_dlp import YoutubeDL
 import os
-destino="/storage/emulated/0/Download/videosEmusicasTube"
+destino=#put your path here, for example: "/download/videos/"
 url = input("digite a url do video: ")
 while True:
 	print("(1) video (2) audio (3) sair")
